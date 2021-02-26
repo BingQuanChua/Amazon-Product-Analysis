@@ -17,5 +17,5 @@ The Jupyter Notebook was done on Google Colab, hence a path needed to be set.
 
 To run locally you can put the datasets in the same directory, comment out (`#`) the first 3 lines and add `path=""`
 
-![Set local path](./img/setpath.png)
+![Set local path](https://github.com/BingQuanChua/amazon-product-analysis/blob/main/img/setpath.PNG?raw=true)
 
