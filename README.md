@@ -13,4 +13,9 @@ Datasets:
 
 Notes:
 
-The Jupyter Notebook and the datasets should be in the same directory.
+The Jupyter Notebook was done on Google Colab, hence a path needed to be set. 
+
+To run locally you can put the datasets in the same directory, comment out (`#`) the first 3 lines and add `path=""`
+
+![Set local path](./img/setpath.png)
+
