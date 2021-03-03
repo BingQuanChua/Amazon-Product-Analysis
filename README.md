@@ -1,5 +1,5 @@
 # amazon-product-analysis
-Introduction to Data Science Project
+An Introduction to Data Science Project
 
 ## Intro
 Online review has been a very useful tool for online marketing. It is one of the unique features of online marketing and online shopping that you cannot experience from physical shopping. Online product reviews enable more diversified opinions that will give consumers different opinions regarding the product. It is also made easily accessible by consumers. 
@@ -23,11 +23,15 @@ Datasets:
 
 [Amazon Review Data (2018)](http://deepyeti.ucsd.edu/jianmo/amazon/index.html) (Downloadable)
 
-Notes:
+
+
+Jupyter Notebook
+
+Click [here](https://nbviewer.jupyter.org/github/BingQuanChua/amazon-product-analysis/blob/main/Amazon%20Beauty%20Product.ipynb) to view the Jupyter notebook online (the notebook is too large to view on GitHub).
 
 The Jupyter Notebook was done on Google Colab, hence a path needed to be set. 
 
-To run locally you can put the datasets in the same directory, comment out (`#`) the first 3 lines and add `path=""`
+To run locally you can put the datasets in the same directory, comment out (`#`) the first 3 lines and add `path=''`
 
 ![Set local path](https://github.com/BingQuanChua/amazon-product-analysis/blob/main/img/setpath.PNG?raw=true)
 
