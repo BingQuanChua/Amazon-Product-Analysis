@@ -29,6 +29,8 @@ Jupyter Notebook
 
 Click [here](https://nbviewer.jupyter.org/github/BingQuanChua/amazon-product-analysis/blob/main/Amazon%20Beauty%20Product.ipynb) to view the Jupyter notebook online (the notebook is too large to view on GitHub).
 
+Alternatively, you can view it [here](https://bingquanchua.github.io/amazon-product-analysis/) too.
+
 The Jupyter Notebook was done on Google Colab, hence a path needed to be set. 
 
 To run locally you can put the datasets in the same directory, comment out (`#`) the first 3 lines and add `path=''`
