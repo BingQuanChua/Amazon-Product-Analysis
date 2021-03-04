@@ -24,7 +24,10 @@ products. We identified the core attributes that we are going to use from the da
 
 [Amazon Review Data (2018)](http://deepyeti.ucsd.edu/jianmo/amazon/index.html) (Downloadable)
 
-
+### Future Improvement
+- Improve the accuracy of classification model
+- Perform data augmentation to train for lower rating classification
+- Perform text analysis for reviews
 
 Jupyter Notebook
 ### Jupyter Notebook:
