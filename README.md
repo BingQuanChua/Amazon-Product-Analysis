@@ -29,7 +29,6 @@ products. We identified the core attributes that we are going to use from the da
 - Perform data augmentation to train for lower rating classification
 - Perform text analysis for reviews
 
-Jupyter Notebook
 ### Jupyter Notebook:
 
 Click [here](https://nbviewer.jupyter.org/github/BingQuanChua/amazon-product-analysis/blob/main/Amazon%20Beauty%20Product.ipynb) to view the Jupyter notebook online (the notebook is too large to view on GitHub).
