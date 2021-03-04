@@ -1,7 +1,7 @@
 # amazon-product-analysis
 An Introduction to Data Science Project
 
-## Intro
+## Introduction
 Online review has been a very useful tool for online marketing. It is one of the unique features of online marketing and online shopping that you cannot experience from physical shopping. Online product reviews enable more diversified opinions that will give consumers different opinions regarding the product. It is also made easily accessible by consumers. 
 
 The weakness of online shopping, however, is that the buyers won’t be able to physically access the product before purchasing. Some consumers might wish to touch or try
@@ -12,10 +12,11 @@ products. We identified the core attributes that we are going to use from the da
 
 ## Amazon Beauty Product
 
-Problem Statement:
+### Problem Statement:
 *The importance and effectiveness of beauty product reviews and ratings from a data science perspective.*
 
-Datasets:
+### Datasets:
+
 - All Beauty metadata
 - All Beauty reviews
 - Luxury Beauty metadata
@@ -26,10 +27,9 @@ Datasets:
 
 
 Jupyter Notebook
+### Jupyter Notebook:
 
 Click [here](https://nbviewer.jupyter.org/github/BingQuanChua/amazon-product-analysis/blob/main/Amazon%20Beauty%20Product.ipynb) to view the Jupyter notebook online (the notebook is too large to view on GitHub).
-
-Alternatively, you can view it [here](https://bingquanchua.github.io/amazon-product-analysis/) too.
 
 The Jupyter Notebook was done on Google Colab, hence a path needed to be set. 
 

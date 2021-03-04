@@ -3,4 +3,5 @@
 *.json
 backup/
 .ipynb_checkpoints/
+docs/
 Data_Science_Project.ipynb
